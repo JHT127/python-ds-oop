@@ -1,0 +1,70 @@
+[
+    {
+        "item_id": "B001",
+        "type": "Book",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "is_available": true,
+        "borrowed_by": null,
+        "borrow_date": null,
+        "isbn": "9780743273565",
+        "pages": 180,
+        "is_reserved": false,
+        "reserved_by": null
+    },
+    {
+        "item_id": "B002",
+        "type": "Book",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "is_available": true,
+        "borrowed_by": null,
+        "borrow_date": null,
+        "isbn": "9780061120084",
+        "pages": 281,
+        "is_reserved": false,
+        "reserved_by": null
+    },
+    {
+        "item_id": "M001",
+        "type": "Magazine",
+        "title": "National Geographic",
+        "author": "Various Authors",
+        "year": 2023,
+        "is_available": true,
+        "borrowed_by": null,
+        "borrow_date": null,
+        "issue": "June 2023",
+        "pages": 120
+    },
+    {
+        "item_id": "D001",
+        "type": "DVD",
+        "title": "The Shawshank Redemption",
+        "author": "Frank Darabont",
+        "year": 1994,
+        "is_available": true,
+        "borrowed_by": null,
+        "borrow_date": null,
+        "runtime": 142,
+        "format": "Blu-ray",
+        "is_reserved": false,
+        "reserved_by": null
+    },
+    {
+        "item_id": "D002",
+        "type": "DVD",
+        "title": "Inception",
+        "author": "Christopher Nolan",
+        "year": 2010,
+        "is_available": true,
+        "borrowed_by": null,
+        "borrow_date": null,
+        "runtime": 148,
+        "format": "DVD",
+        "is_reserved": false,
+        "reserved_by": null
+    }
+]

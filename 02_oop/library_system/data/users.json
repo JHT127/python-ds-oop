@@ -1,0 +1,53 @@
+[
+    {
+        "user_id": "U001",
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "membership_date": "2023-01-15",
+        "borrowed_items": [
+            "B002"
+        ],
+        "reserved_items": []
+    },
+    {
+        "user_id": "U002",
+        "name": "Emily Johnson",
+        "email": "emily.j@example.com",
+        "membership_date": "2023-03-22",
+        "borrowed_items": [
+            "D002"
+        ],
+        "reserved_items": [
+            "B002"
+        ]
+    },
+    {
+        "user_id": "U003",
+        "name": "Michael Brown",
+        "email": "michael.b@example.com",
+        "membership_date": "2023-05-10",
+        "borrowed_items": [
+            "B002"
+        ],
+        "reserved_items": []
+    },
+    {
+        "user_id": "U004",
+        "name": "Alice Wonderland",
+        "email": "alice@example.com",
+        "membership_date": "2025-06-20",
+        "borrowed_items": [
+            "B001",
+            "M001"
+        ],
+        "reserved_items": []
+    },
+    {
+        "user_id": "U005",
+        "name": "U005",
+        "email": "U005@EMAIL.COM",
+        "membership_date": "2025-06-21",
+        "borrowed_items": [],
+        "reserved_items": []
+    }
+]

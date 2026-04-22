@@ -1,0 +1,9 @@
+Please solve the following questions and submit the answers in .py file format (Colab & GitHub are also allowed).
+This is needed by Friday 9th of May:
+Question 1: Word Counter
+Ask the user for a file name.
+Count and display the number of words in the file.
+Also, identify the most frequent word and how many times it appears.
+
+
+
