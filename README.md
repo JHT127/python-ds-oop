@@ -3,7 +3,7 @@
 My solutions to all assignments from the **Gaza Sky Geeks SkillStack** program (Python track), covering Python fundamentals, Object-Oriented Programming, and Data Structures & Algorithms from scratch through advanced self-balancing trees and graph traversal.
 
 > **Program:** [Gaza Sky Geeks SkillStack](https://gazaskygeeks.com/)
-> **Course materials:** [courses-library](https://github.com/GazaSkyGeeks/courses-library) (instructor's repo)
+> **Course materials:** [courses-library](https://github.com/dmrimawi/courses-library) (instructor's repo)
 > **Duration:** ~4 months | **Language:** Python 3
 
 ---
@@ -58,7 +58,7 @@ Each folder is self-contained. Example:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/gsg-python-ds-oop.git
+git clone https://github.com/JHT127/gsg-python-ds-oop.git
 cd gsg-python-ds-oop
 
 # Run any project
