@@ -58,7 +58,7 @@ Each folder is self-contained. Example:
 
 ```bash
 # Clone the repo
-git clone https://github.com/JHT127/gsg-python-ds-oop.git
+git clone https://github.com/JHT127/python-ds-oop
 cd gsg-python-ds-oop
 
 # Run any project
